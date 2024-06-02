@@ -1,6 +1,6 @@
 # TicTacToe
 
-This program is a very simple SFML C++ implementation for a Tic Tac Toe AI which I made as part of my learning process to code more complex AI systems and GUI's in C++. All the code and necessary files are available and made public in this project so you can directly pull the code onto your local repository and run/modify/improve it. Alternatively, the TicTacToe-Application folder contains the executable as well as all dependant files including the font and ddl libraries of SFML and should run directly on your computer.
+This program is a very simple SFML C++ implementation for a Tic Tac Toe AI which I made as part of my learning process to code more complex AI systems and GUI's in C++. All the code and necessary files are available and made public in this project so you can directly pull the code onto your local repository and run/modify/improve it. Alternatively, the TicTacToe-Application folder contains the executable as well as all dependant files including the font and ddl libraries of SFML and should run directly on your computer. Also note the main Source.cpp file is contained in the TicTacToe folder and contains the program code.
 
 Once you run the code a TicTacToe board will pop up on your screen and you will have to use your mouse to place your pieces on the board. After the end of each game the program will wait for 2 seconds before restarting a fresh game.
 
